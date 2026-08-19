@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ayushhx24/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Ayushhx24/DSA/tree/master/0412-fizz-buzz) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ayushhx24/DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Binary Search
 |  |
@@ -65,8 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ayushhx24/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Ayushhx24/DSA/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ayushhx24/DSA/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Ayushhx24/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
