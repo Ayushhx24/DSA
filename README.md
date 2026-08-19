@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ayushhx24/DSA/tree/master/0258-add-digits) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ayushhx24/DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Binary Search
 |  |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ayushhx24/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ayushhx24/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
