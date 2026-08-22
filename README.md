@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ayushhx24/DSA/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayushhx24/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ayushhx24/DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayushhx24/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
