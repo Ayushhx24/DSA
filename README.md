@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Ayushhx24/DSA/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ayushhx24/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushhx24/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Ayushhx24/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ayushhx24/DSA/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayushhx24/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ayushhx24/DSA/tree/master/1927-sum-game) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ayushhx24/DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayushhx24/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayushhx24/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushhx24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -97,5 +100,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ayushhx24/DSA/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
