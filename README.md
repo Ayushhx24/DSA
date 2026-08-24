@@ -114,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ayushhx24/DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ayushhx24/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
