@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayushhx24/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushhx24/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ayushhx24/DSA/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ayushhx24/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ayushhx24/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushhx24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayushhx24/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushhx24/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushhx24/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ayushhx24/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
 ## Quicksort
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/Ayushhx24/DSA/tree/master/0412-fizz-buzz) |
 | [1927-sum-game](https://github.com/Ayushhx24/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushhx24/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
