@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ayushhx24/DSA/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ayushhx24/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Ayushhx24/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayushhx24/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushhx24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ayushhx24/DSA/tree/master/0136-single-number) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ayushhx24/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayushhx24/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushhx24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ayushhx24/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayushhx24/DSA/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
