@@ -174,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushhx24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ayushhx24/DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ayushhx24/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
