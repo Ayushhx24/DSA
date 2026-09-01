@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayushhx24/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushhx24/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushhx24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushhx24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushhx24/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ayushhx24/DSA/tree/master/0136-single-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushhx24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayushhx24/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushhx24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushhx24/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushhx24/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Ayushhx24/DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Ayushhx24/DSA/tree/master/0226-invert-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushhx24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ayushhx24/DSA/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushhx24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
