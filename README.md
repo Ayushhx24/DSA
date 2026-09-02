@@ -158,22 +158,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayushhx24/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayushhx24/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ayushhx24/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayushhx24/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayushhx24/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ayushhx24/DSA/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayushhx24/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayushhx24/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ayushhx24/DSA/tree/master/0226-invert-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushhx24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayushhx24/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayushhx24/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ayushhx24/DSA/tree/master/0226-invert-binary-tree) |
 ## Enumeration
 |  |
