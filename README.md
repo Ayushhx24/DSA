@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ayushhx24/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Ayushhx24/DSA/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Ayushhx24/DSA/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ayushhx24/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayushhx24/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushhx24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushhx24/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushhx24/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ayushhx24/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayushhx24/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushhx24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
 |  |
@@ -87,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayushhx24/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayushhx24/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -206,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushhx24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
