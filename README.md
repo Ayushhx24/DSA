@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Ayushhx24/DSA/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/Ayushhx24/DSA/tree/master/0412-fizz-buzz) |
 | [1927-sum-game](https://github.com/Ayushhx24/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushhx24/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayushhx24/DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Ayushhx24/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushhx24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1872-stone-game-viii](https://github.com/Ayushhx24/DSA/tree/master/1872-stone-game-viii) |
 ## Greedy
