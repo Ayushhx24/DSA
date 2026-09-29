@@ -263,10 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ayushhx24/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushhx24/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ayushhx24/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushhx24/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Matrix
 |  |
 | ------- |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayushhx24/DSA/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushhx24/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
