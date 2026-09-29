@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ayushhx24/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ayushhx24/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ayushhx24/DSA/tree/master/0383-ransom-note) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayushhx24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ayushhx24/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayushhx24/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ayushhx24/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ayushhx24/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushhx24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushhx24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ayushhx24/DSA/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Ayushhx24/DSA/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/Ayushhx24/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ayushhx24/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ayushhx24/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Ayushhx24/DSA/tree/master/0412-fizz-buzz) |
